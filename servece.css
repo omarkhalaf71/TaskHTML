@@ -1,0 +1,11 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.Services{
+    width: 100%;
+    height: 100vh;
+background: linear-gradient( to right, rgba(114, 102, 102, 0.414), rgb(141, 127, 127))}
